@@ -18,3 +18,12 @@ https://leetcode.com/studyplan/leetcode-75/
 - 724 Find Pivot Index (E)
 
 - 1732 Find the Highest Altitude
+
+## LinkedList
+
+- 206 Reverse Linked List
+
+- 328 Odd Even Linked List
+
+- 2095 Delete the Middle Node of a Linked List
+- 2130 Maximum Twin Sum of a Linked List
