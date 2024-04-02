@@ -12,3 +12,9 @@ https://leetcode.com/studyplan/leetcode-75/
 - 2390 Removing Stars From a String
 - 735 Asteroid Collision
 - 394 Decode String
+
+## Prefix Sum
+
+- 724 Find Pivot Index (E)
+
+- 1732 Find the Highest Altitude
