@@ -27,3 +27,11 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - 2095 Delete the Middle Node of a Linked List
 - 2130 Maximum Twin Sum of a Linked List
+
+## Bit
+
+- 338 Counting Bits (E)
+
+- 136 Single Number
+
+- 1318 Minimum Flips to Make a OR b Equal to c
