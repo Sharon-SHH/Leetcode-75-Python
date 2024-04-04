@@ -35,3 +35,9 @@ https://leetcode.com/studyplan/leetcode-75/
 - 136 Single Number
 
 - 1318 Minimum Flips to Make a OR b Equal to c
+
+## Queue
+
+- 933 Number of Recent Calls
+
+- 649 Dota2 Senate
