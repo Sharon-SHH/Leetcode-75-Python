@@ -69,7 +69,13 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - 1318 Minimum Flips to Make a OR b Equal to c 
 
+## Monotonic Stack
 
+- 496 Next Greater Element I (E)
+
+- 739 Daily Temperatures
+
+- 901 Online Stock Span
 
 ## Binary Tree - DFS
 
@@ -370,9 +376,5 @@ Medium
 
 - Minimum Number of Arrows to Burst Balloons
 
-## Monotonic Stack
-
-- Daily Temperatures
-
-- Online Stock Span
+- 
 
