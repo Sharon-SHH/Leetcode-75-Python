@@ -1,6 +1,39 @@
 # Leetcode-75-Python
 https://leetcode.com/studyplan/leetcode-75/
 
+## Array/String (3)
+
+- Merge Strings Alternately (E)
+- Greatest Common Divisor of Strings (E)
+- Kids with the Greatest Number of Candies (E)
+- Can Place Flowers (E)
+- Reverse Vowels of a String (E)
+- Reverse Words in a String
+- Product of Array Except Self
+- Increaseing Triplet Subsequence
+- String Compression
+
+## Two Points (2)
+
+- 283 Move Zeros (E)
+- 392 Is Subsequence (E)
+- 11 Container With Most Water
+- 1679 Max Number of K-Sum Pairs
+
+## Sliding Windows
+
+- 643 Maximum Average Subarray I (E)
+- 1456 Maximum Number of Vowels in a Substring of Given Length
+
+- 1493 Longest Subarray of 1's After Deleting One Element
+- 1004 Max Consecutive Ones III
+
+## Prefix Sum
+
+- 724 Find Pivot Index (E)
+
+- 1732 Find the Highest Altitude
+
 ## Hashmap
 - 2215 Find the Difference of Two Arrays (E)  
 - 1207 Unique Number of Occurrences (E)  
@@ -13,11 +46,11 @@ https://leetcode.com/studyplan/leetcode-75/
 - 735 Asteroid Collision
 - 394 Decode String
 
-## Prefix Sum
+## Queue
 
-- 724 Find Pivot Index (E)
+- 933 Number of Recent Calls
 
-- 1732 Find the Highest Altitude
+- 649 Dota2 Senate
 
 ## LinkedList
 
@@ -34,19 +67,312 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - 136 Single Number
 
-- 1318 Minimum Flips to Make a OR b Equal to c
+- 1318 Minimum Flips to Make a OR b Equal to c 
 
-## Queue
 
-- 933 Number of Recent Calls
 
-- 649 Dota2 Senate
+## Binary Tree - DFS
 
-## Sliding Windows
+- Maximum Depth of Binary Tree (Easy)
 
-- 643 Maximum Average Subarray I (E)
-- 1456 Maximum Number of Vowels in a Substring of Given Length
+- Leaf-Similar Trees (Easy)
 
-- 1493 Longest Subarray of 1's After Deleting One Element
-- 1004 Max Consecutive Ones III
+- Count Good Nodes in Binary Tree
+
+[](https://leetcode.com/problems/count-good-nodes-in-binary-tree/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Path Sum III
+
+[](https://leetcode.com/problems/path-sum-iii/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Longest ZigZag Path in a Binary Tree
+
+[](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Lowest Common Ancestor of a Binary Tree
+
+[](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Binary Tree - BFS
+
+
+
+Binary Tree Right Side View
+
+[](https://leetcode.com/problems/binary-tree-right-side-view/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Maximum Level Sum of a Binary Tree
+
+[](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Binary Search Tree
+
+
+
+Search in a Binary Search Tree
+
+[](https://leetcode.com/problems/search-in-a-binary-search-tree/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Easy
+
+
+
+Delete Node in a BST
+
+[](https://leetcode.com/problems/delete-node-in-a-bst/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Graphs - DFS
+
+
+
+Keys and Rooms
+
+[](https://leetcode.com/problems/keys-and-rooms/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Number of Provinces
+
+[](https://leetcode.com/problems/number-of-provinces/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Reorder Routes to Make All Paths Lead to the City Zero
+
+[](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Evaluate Division
+
+[](https://leetcode.com/problems/evaluate-division/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Graphs - BFS
+
+
+
+Nearest Exit from Entrance in Maze
+
+[](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Rotting Oranges
+
+[](https://leetcode.com/problems/rotting-oranges/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Heap / Priority Queue
+
+- Kth Largest Element in an Array
+
+[](https://leetcode.com/problems/kth-largest-element-in-an-array/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+- Smallest Number in Infinite Set
+
+[](https://leetcode.com/problems/smallest-number-in-infinite-set/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+- Maximum Subsequence Score
+
+[](https://leetcode.com/problems/maximum-subsequence-score/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+- Total Cost to Hire K Workers
+
+[](https://leetcode.com/problems/total-cost-to-hire-k-workers/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Binary Search
+
+- Guess Number Higher or Lower
+
+[](https://leetcode.com/problems/guess-number-higher-or-lower/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Easy
+
+
+
+- Successful Pairs of Spells and Potions
+
+[](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+- Find Peak Element
+
+[](https://leetcode.com/problems/find-peak-element/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+- Koko Eating Bananas
+
+[](https://leetcode.com/problems/koko-eating-bananas/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Backtracking
+
+- Letter Combinations of a Phone Number
+
+- Combination Sum III
+
+## DP - 1D
+
+
+
+N-th Tribonacci Number
+
+[](https://leetcode.com/problems/n-th-tribonacci-number/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Easy
+
+
+
+Min Cost Climbing Stairs
+
+[](https://leetcode.com/problems/min-cost-climbing-stairs/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Easy
+
+
+
+House Robber
+
+[](https://leetcode.com/problems/house-robber/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Domino and Tromino Tiling
+
+[](https://leetcode.com/problems/domino-and-tromino-tiling/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## DP - Multidimensional
+
+
+
+Unique Paths
+
+[](https://leetcode.com/problems/unique-paths/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Longest Common Subsequence
+
+[](https://leetcode.com/problems/longest-common-subsequence/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Best Time to Buy and Sell Stock with Transaction Fee
+
+[](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+
+
+Edit Distance
+
+[](https://leetcode.com/problems/edit-distance/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+Bit Manipulation
+
+
+
+Counting Bits
+
+[](https://leetcode.com/problems/counting-bits/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Easy
+
+
+
+Single Number
+
+[](https://leetcode.com/problems/single-number/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Easy
+
+
+
+Minimum Flips to Make a OR b Equal to c
+
+[](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/editorial/?envType=study-plan-v2&envId=leetcode-75)
+
+Medium
+
+## Trie
+
+- Implement Trie (Prefix Tree)
+- Search Suggestions System
+
+## Intervals
+
+- Non-overlapping Intervals
+
+- Minimum Number of Arrows to Burst Balloons
+
+## Monotonic Stack
+
+- Daily Temperatures
+
+- Online Stock Span
 
