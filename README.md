@@ -3,15 +3,15 @@ https://leetcode.com/studyplan/leetcode-75/
 
 ## Array/String (3)
 
-- Merge Strings Alternately (E)
-- Greatest Common Divisor of Strings (E)
-- Kids with the Greatest Number of Candies (E)
-- Can Place Flowers (E)
-- Reverse Vowels of a String (E)
+- 1768 Merge Strings Alternately (E)
+- 1071 Greatest Common Divisor of Strings (E) *
+- 1431 Kids with the Greatest Number of Candies (E)
+- 605 Can Place Flowers (E)
+- 345 Reverse Vowels of a String (E)
 - Reverse Words in a String
-- Product of Array Except Self
-- Increaseing Triplet Subsequence
-- String Compression
+- 238 Product of Array Except Self
+- 334 Increaseing Triplet Subsequence
+- 443 String Compression *
 
 ## Two Points (2)
 
